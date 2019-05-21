@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahxeekohga.arjakatajamaki.com/sitemap.xml
